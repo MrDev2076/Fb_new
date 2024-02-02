@@ -1,1 +1,1 @@
-# Fresherbot_Upd
+# fresherbot-tailwind
